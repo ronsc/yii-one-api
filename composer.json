@@ -1,0 +1,14 @@
+{
+    "name": "ronsc/yii-one-api",
+    "authors": [
+        {
+            "name": "ronsc",
+            "email": "fdroncpe17@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^5.5",
+        "yiisoft/yii": "^1.1"
+    },
+    "autoload": { }
+}
